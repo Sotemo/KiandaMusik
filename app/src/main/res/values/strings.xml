@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kianda Muzik</string>
+    <string name="action_settings">Acerca</string>
+    <string name="nomeArtista"></string>
+</resources>
